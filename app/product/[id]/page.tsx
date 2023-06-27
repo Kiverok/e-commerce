@@ -1,5 +1,4 @@
 
-
 function ProductPage() {
   return (
     <div>
@@ -8,7 +7,4 @@ function ProductPage() {
   )
 }
 
-
-
 export default ProductPage
-
